@@ -14,5 +14,3 @@ function fibonacci(end) {
 
     return sequence
 }
-
-console.log(fibonacci(10)); // Should return and print the first 10 fibonacci numbers
