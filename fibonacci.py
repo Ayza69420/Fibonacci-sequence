@@ -11,4 +11,4 @@ def fibonacci(end):
 
     return sequence
 
-print(fibonacci(10)) # Should print and return the first 10 fibonacci numbers
+print(fibonacci(10)) # Should return and print the first 10 fibonacci numbers
